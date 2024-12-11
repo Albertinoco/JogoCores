@@ -1,3 +1,5 @@
+//Estou ajudar o cabeça grande do Tino
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 
